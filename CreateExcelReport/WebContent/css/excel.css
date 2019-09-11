@@ -1,0 +1,9 @@
+div {
+	float: left;
+	postition: absolute;
+	display: inline;
+}
+
+.errorMessage {
+	color: red;
+}
